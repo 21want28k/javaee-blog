@@ -4,7 +4,7 @@ a personal blog site based on Jsp/Servlet - 基于jsp/servlet的个人博客网�
 
 ## introduction - 简介
 
-java web博客项目，纯粹兴趣！2017-9-18到9-27日完成，尽最大可能实现mvc模式，没有使用到框架，实现了首页预览，文章发布，点赞，评论，Markdown格式编写，分类，标签，阅读排行，时间轴，管理员管理博客，访客记录等。
+java web博客项目，尽最大可能实现mvc模式，没有使用到框架，实现了首页预览，文章发布，点赞，评论，Markdown格式编写，分类，标签，阅读排行，时间轴，管理员管理博客，访客记录等。
 
 * 主要涉及到的知识点有jsp,servlet,mysql,bootstrap,html/css/js,ajax,json
 
