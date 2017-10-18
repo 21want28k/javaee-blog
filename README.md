@@ -68,10 +68,6 @@ java web博客项目，尽最大可能实现mvc模式，没有使用到框架，
 * json-lib-2.1-jdk15 json包
 * ezmorph-1.0.3
 
-### contace me - 联系我
-
-* email: lemonreds@163.com
-
 ### preview - 预览
 
 ![lose the img](https://github.com/Lemonreds/MyBlog/blob/master/CAPTRUE/1.png)
